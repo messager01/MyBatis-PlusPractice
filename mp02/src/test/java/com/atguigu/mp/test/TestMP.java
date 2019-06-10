@@ -14,7 +14,7 @@ import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
 
 public class TestMP {
 	/**
-	 *  代码生成器实例代码
+	 *   代码生成器实例代码
 	 */
 	@Test
 	public void testGenerator() {
